@@ -1,0 +1,4 @@
+name: ReplayCheat
+version: '${project.version}'
+main: nl.officialfox.replaycheat.ReplayCheat
+api-version: '1.19'
